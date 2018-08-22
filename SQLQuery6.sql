@@ -1,0 +1,1 @@
+﻿Select [​Departs] FROM Departament
